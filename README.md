@@ -51,4 +51,3 @@ La fonction maxSubArraySum est située dans le fichier app.js.
 <br>huge2 => alternative de 'huge' avec des tableaux allant de 1 à 10 000 000 éléments
 
 Pour choisir le set d'exemple à utiliser, rendez-vous dans la fonction main() dans app.js
-# MaxSubArrayAdvizeo
