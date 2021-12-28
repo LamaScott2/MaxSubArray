@@ -42,19 +42,13 @@ La fonction maxSubArraySum est située dans le fichier app.js.
 **Depuis un terminal**
 <br>L'exécution nécessite l'installation de NodeJs
 <br>Dans le répertoire racine :
-<br>**> node app.js reduce dev**
-
-**4 algorithmes sont fournis**
-<br>reduce => utilisant la fonction reduce 
-<br>loop => utlisant une boucle for allant 0 a la taille du tableau
-<br>rloop => utlisant une boucle for allant de la taille du tableau a 0 
-<br>rwloop => utlisant une boucle while et un compteur
+<br>**> node app.js dev**
 
 **4 sets d'exemples sont fournis**
 <br>dev => avec des tableaux allant de 1 à 10 éléments
 <br>test => avec des tableaux allant de 1 à 5 000 éléments
 <br>huge => avec des tableaux allant de 1 à 10 000 000 éléments
-<br>huge2 => avec des tableaux allant de 1 à 10 000 000 éléments
+<br>huge2 => alternative de 'huge' avec des tableaux allant de 1 à 10 000 000 éléments
 
 Pour choisir le set d'exemple à utiliser, rendez-vous dans la fonction main() dans app.js
 # MaxSubArrayAdvizeo
